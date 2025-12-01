@@ -1,0 +1,522 @@
+{
+  "Ultra Minimal": {
+    "thickness": {
+      "0-0.3": "In Ultra Minimal style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Ultra Minimal style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Ultra Minimal style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Ultra Minimal style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Ultra Minimal style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Ultra Minimal style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Ultra Minimal style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Ultra Minimal style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Ultra Minimal style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Ultra Minimal style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Ultra Minimal style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Ultra Minimal style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Ultra Minimal style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Ultra Minimal style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Ultra Minimal style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Ultra Minimal style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Ultra Minimal style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Ultra Minimal style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Ultra Minimal style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Ultra Minimal style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Ultra Minimal style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Scandinavian": {
+    "thickness": {
+      "0-0.3": "In Scandinavian style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Scandinavian style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Scandinavian style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Scandinavian style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Scandinavian style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Scandinavian style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Scandinavian style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Scandinavian style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Scandinavian style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Scandinavian style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Scandinavian style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Scandinavian style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Scandinavian style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Scandinavian style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Scandinavian style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Scandinavian style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Scandinavian style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Scandinavian style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Scandinavian style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Scandinavian style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Scandinavian style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Scandinavian style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Scandinavian style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Scandinavian style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Scandinavian style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Scandinavian style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Scandinavian style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Scandinavian style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Scandinavian style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Scandinavian style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Japandi": {
+    "thickness": {
+      "0-0.3": "In Japandi style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Japandi style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Japandi style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Japandi style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Japandi style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Japandi style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Japandi style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Japandi style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Japandi style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Japandi style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Japandi style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Japandi style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Japandi style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Japandi style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Japandi style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Japandi style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Japandi style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Japandi style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Japandi style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Japandi style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Japandi style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Japandi style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Japandi style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Japandi style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Japandi style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Japandi style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Japandi style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Japandi style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Japandi style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Japandi style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Contemporary Soft-Neutral": {
+    "thickness": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Contemporary Soft-Neutral style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Contemporary Soft-Neutral style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Contemporary Soft-Neutral style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Mid-Century Modern": {
+    "thickness": {
+      "0-0.3": "In Mid-Century Modern style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Mid-Century Modern style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Mid-Century Modern style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Mid-Century Modern style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Mid-Century Modern style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Mid-Century Modern style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Mid-Century Modern style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Mid-Century Modern style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Mid-Century Modern style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Mid-Century Modern style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Mid-Century Modern style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Mid-Century Modern style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Mid-Century Modern style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Mid-Century Modern style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Mid-Century Modern style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Mid-Century Modern style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Mid-Century Modern style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Mid-Century Modern style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Mid-Century Modern style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Mid-Century Modern style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Mid-Century Modern style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Modern Farmhouse": {
+    "thickness": {
+      "0-0.3": "In Modern Farmhouse style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Modern Farmhouse style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Modern Farmhouse style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Modern Farmhouse style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Modern Farmhouse style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Modern Farmhouse style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Modern Farmhouse style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Modern Farmhouse style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Modern Farmhouse style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Modern Farmhouse style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Modern Farmhouse style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Modern Farmhouse style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Modern Farmhouse style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Modern Farmhouse style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Modern Farmhouse style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Modern Farmhouse style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Modern Farmhouse style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Modern Farmhouse style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Modern Farmhouse style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Modern Farmhouse style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Modern Farmhouse style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Industrial Loft": {
+    "thickness": {
+      "0-0.3": "In Industrial Loft style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Industrial Loft style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Industrial Loft style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Industrial Loft style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Industrial Loft style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Industrial Loft style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Industrial Loft style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Industrial Loft style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Industrial Loft style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Industrial Loft style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Industrial Loft style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Industrial Loft style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Industrial Loft style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Industrial Loft style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Industrial Loft style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Industrial Loft style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Industrial Loft style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Industrial Loft style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Industrial Loft style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Industrial Loft style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Industrial Loft style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Industrial Loft style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Industrial Loft style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Industrial Loft style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Industrial Loft style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Rustic Cabin": {
+    "thickness": {
+      "0-0.3": "In Rustic Cabin style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Rustic Cabin style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Rustic Cabin style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Rustic Cabin style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Rustic Cabin style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Rustic Cabin style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Rustic Cabin style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Rustic Cabin style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Rustic Cabin style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Rustic Cabin style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Rustic Cabin style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Rustic Cabin style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Rustic Cabin style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Rustic Cabin style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Rustic Cabin style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Rustic Cabin style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Rustic Cabin style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Rustic Cabin style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Rustic Cabin style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Rustic Cabin style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Rustic Cabin style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Eclectic Boho": {
+    "thickness": {
+      "0-0.3": "In Eclectic Boho style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Eclectic Boho style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Eclectic Boho style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Eclectic Boho style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Eclectic Boho style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Eclectic Boho style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Eclectic Boho style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Eclectic Boho style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Eclectic Boho style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Eclectic Boho style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Eclectic Boho style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Eclectic Boho style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Eclectic Boho style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Eclectic Boho style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Eclectic Boho style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Eclectic Boho style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Eclectic Boho style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Eclectic Boho style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Eclectic Boho style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Eclectic Boho style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Eclectic Boho style, this reflects more diverse hues with natural blended transitions."
+    }
+  },
+  "Art Deco Luxury": {
+    "thickness": {
+      "0-0.3": "In Art Deco Luxury style, this reflects very subtle surface texture with minimal grain presence.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a moderate amount of natural grain that adds gentle visual interest.",
+      "0.8-1": "In Art Deco Luxury style, this reflects pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "0-0.3": "In Art Deco Luxury style, this reflects smooth, polished surfaces with a refined finish.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a balance of smoothness with slight natural roughness.",
+      "0.8-1": "In Art Deco Luxury style, this reflects raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "0-0.3": "In Art Deco Luxury style, this reflects uniform, controlled material appearance with minimal natural variation.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a gentle amount of natural irregularity blended into the material.",
+      "0.8-1": "In Art Deco Luxury style, this reflects strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "0-0.3": "In Art Deco Luxury style, this reflects very minimal décor and clean, unobstructed surfaces.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a curated amount of décor and accessories.",
+      "0.8-1": "In Art Deco Luxury style, this reflects rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "0-0.3": "In Art Deco Luxury style, this reflects a casual, loosely organized spatial arrangement.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a softly ordered arrangement with balanced placement.",
+      "0.8-1": "In Art Deco Luxury style, this reflects a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "0-0.3": "In Art Deco Luxury style, this reflects asymmetrical composition with natural visual balance.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects soft balance without strict mirroring.",
+      "0.8-1": "In Art Deco Luxury style, this reflects clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "0-0.3": "In Art Deco Luxury style, this reflects a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects a balanced palette without strong warm or cool bias.",
+      "0.8-1": "In Art Deco Luxury style, this reflects a cool palette with pale stone, gray, and blue-gray undertones."
+    },
+    "saturation": {
+      "0-0.3": "In Art Deco Luxury style, this reflects very muted, desaturated color tones.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects moderately soft natural hues.",
+      "0.8-1": "In Art Deco Luxury style, this reflects richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "0-0.3": "In Art Deco Luxury style, this reflects low-brightness, soft and shadowed color values.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects balanced mid-level brightness creating a calm atmosphere.",
+      "0.8-1": "In Art Deco Luxury style, this reflects bright, light-reflective color tones."
+    },
+    "uniform": {
+      "0-0.3": "In Art Deco Luxury style, this reflects a uniform, monochromatic color palette.",
+      "0.4-0.7": "In Art Deco Luxury style, this reflects soft tonal layering with gentle, harmonious variation.",
+      "0.8-1": "In Art Deco Luxury style, this reflects more diverse hues with natural blended transitions."
+    }
+  }
+}
