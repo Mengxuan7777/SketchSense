@@ -1,0 +1,602 @@
+{
+  "ranges": {
+    "low": [0.0, 0.3],
+    "mid": [0.3, 0.7],
+    "high": [0.7, 1.0]
+  },
+
+  "axes": {
+    "thickness": {
+      "low": "subtle surface texture with minimal grain presence.",
+      "mid": "a moderate amount of natural grain that adds gentle visual interest.",
+      "high": "pronounced and expressive grain patterns that stand out."
+    },
+    "coarseness": {
+      "low": "smooth, polished surfaces with a refined finish.",
+      "mid": "a balance of smoothness with slight natural roughness.",
+      "high": "raw, tactile surfaces with visible natural texture."
+    },
+    "wiggleness": {
+      "low": "uniform, controlled material appearance with minimal natural variation.",
+      "mid": "a gentle amount of natural irregularity blended into the material.",
+      "high": "strong natural organic variation and irregularity."
+    },
+    "bumpiness": {
+      "low": "minimal décor and clean, unobstructed surfaces.",
+      "mid": "a curated amount of décor and accessories.",
+      "high": "rich decorative layering with noticeable visual activity."
+    },
+    "rigidity": {
+      "low": "a casual, loosely organized spatial arrangement.",
+      "mid": "a softly ordered arrangement with balanced placement.",
+      "high": "a highly structured and disciplined layout."
+    },
+    "symmetry": {
+      "low": "asymmetrical composition with natural visual balance.",
+      "mid": "soft balance without strict mirroring.",
+      "high": "clean and pronounced symmetrical alignment."
+    },
+    "tone": {
+      "low": "a warm palette with earthy beiges, sands, and soft warm neutrals.",
+      "mid": "a balanced palette without strong warm or cool bias.",
+      "high": "a cool palette with crisp whites, soft grays, and subtle blue undertones."
+    },
+    "saturation": {
+      "low": "muted, desaturated color tones.",
+      "mid": "moderately soft natural hues.",
+      "high": "richer yet still harmonious color intensity."
+    },
+    "brightness": {
+      "low": "low-brightness, soft and shadowed color values.",
+      "mid": "balanced mid-level brightness creating a calm atmosphere.",
+      "high": "bright, light-reflective color tones."
+    },
+    "uniform": {
+      "low": "a uniform, monochromatic color palette.",
+      "mid": "soft tonal layering with gentle, harmonious variation.",
+      "high": "more diverse hues with natural blended transitions."
+    }
+  },
+
+  "styles": {
+    "Ultra Minimal": {
+      "tags": [
+        "Ultra Minimal",
+        "gallery-like calm",
+        "high negative space",
+        "precise detailing",
+        "quiet luxury"
+      ],
+      "signature": {
+        "materials": [
+          "matte plaster",
+          "microcement",
+          "white oak (light)",
+          "travertine",
+          "brushed aluminum",
+          "clear glass"
+        ],
+        "forms": [
+          "monolithic volumes",
+          "sharp alignments",
+          "flush reveals",
+          "thin profiles",
+          "concealed storage"
+        ],
+        "lighting": [
+          "soft wall-wash lighting",
+          "hidden cove lighting",
+          "minimal downlights",
+          "low-glare ambient illumination"
+        ]
+      },
+      "bias": {
+        "bumpiness": -0.25,
+        "saturation": -0.25,
+        "uniform": -0.15,
+        "rigidity": 0.15,
+        "symmetry": 0.1,
+        "coarseness": -0.1
+      },
+      "overrides": {
+        "bumpiness": {
+          "high": "intentional minimal layering: a few sculptural pieces only, with abundant negative space."
+        },
+        "uniform": {
+          "high": "controlled palette variation within near-monochrome neutrals, keeping a gallery-like restraint."
+        }
+      }
+    },
+
+    "Scandinavian": {
+      "tags": [
+        "Scandinavian",
+        "Nordic simplicity",
+        "functional comfort",
+        "light woods",
+        "cozy minimal"
+      ],
+      "signature": {
+        "materials": [
+          "light birch",
+          "ash wood",
+          "wool textiles",
+          "linen",
+          "painted wood",
+          "ceramic"
+        ],
+        "forms": [
+          "simple functional furniture",
+          "tapered legs",
+          "soft curves",
+          "clean-lined cabinetry"
+        ],
+        "lighting": [
+          "bright diffuse daylight",
+          "warm cozy lamps",
+          "paper or linen shades",
+          "layered ambient lighting"
+        ]
+      },
+      "bias": {
+        "brightness": 0.15,
+        "tone": 0.05,
+        "saturation": -0.1,
+        "bumpiness": -0.05,
+        "coarseness": -0.05
+      },
+      "overrides": {
+        "tone": {
+          "high": "cool, airy neutrals with pale stone and blue-gray undertones, balanced by light wood warmth."
+        }
+      }
+    },
+
+    "Japandi": {
+      "tags": [
+        "Japandi",
+        "wabi-sabi",
+        "calm minimalism",
+        "natural materials",
+        "quiet elegance"
+      ],
+      "signature": {
+        "materials": [
+          "light oak",
+          "ash wood",
+          "linen",
+          "paper",
+          "matte ceramic",
+          "natural stone"
+        ],
+        "forms": [
+          "low-profile furniture",
+          "clean joinery",
+          "soft rounded edges",
+          "simple geometric volumes"
+        ],
+        "lighting": [
+          "soft diffuse daylight",
+          "warm indirect accent lighting",
+          "low-glare ambient illumination"
+        ]
+      },
+      "bias": {
+        "saturation": -0.2,
+        "wiggleness": 0.1,
+        "rigidity": 0.1,
+        "bumpiness": -0.05
+      },
+      "overrides": {
+        "tone": {
+          "high": "cool mineral neutrals with restrained contrast, inspired by stone, ash, and muted clay."
+        },
+        "bumpiness": {
+          "high": "layered but restrained décor, emphasizing handmade objects and negative space."
+        }
+      }
+    },
+
+    "Contemporary Calm": {
+      "tags": [
+        "Contemporary Calm",
+        "clean modern comfort",
+        "soft minimal",
+        "warm neutrals",
+        "relaxed sophistication"
+      ],
+      "signature": {
+        "materials": [
+          "warm oak",
+          "bouclé upholstery",
+          "linen",
+          "matte paint",
+          "light stone",
+          "powder-coated metal"
+        ],
+        "forms": [
+          "soft modern silhouettes",
+          "rounded corners",
+          "low visual clutter",
+          "integrated storage"
+        ],
+        "lighting": [
+          "warm ambient lighting",
+          "soft diffused pendants",
+          "minimal recessed lighting",
+          "gentle accent sconces"
+        ]
+      },
+      "bias": {
+        "tone": -0.1,
+        "saturation": -0.1,
+        "bumpiness": -0.1,
+        "coarseness": -0.05,
+        "brightness": 0.05
+      },
+      "overrides": {
+        "tone": {
+          "low": "warm creamy neutrals with oatmeal, sand, and soft taupe undertones."
+        },
+        "uniform": {
+          "high": "subtle tonal layering across warm neutrals, keeping the palette cohesive and calm."
+        }
+      }
+    },
+
+    "Retro modern": {
+      "tags": [
+        "Retro modern",
+        "retro modern",
+        "organic geometry",
+        "teak and walnut",
+        "graphic accents"
+      ],
+      "signature": {
+        "materials": [
+          "walnut",
+          "teak",
+          "leather",
+          "tweed or textured fabric",
+          "brass accents",
+          "glass"
+        ],
+        "forms": [
+          "tapered legs",
+          "organic curves",
+          "low credenzas",
+          "iconic lounge chair silhouettes"
+        ],
+        "lighting": [
+          "statement pendant",
+          "globe lights",
+          "warm mid-century lamps",
+          "accent lighting for objects"
+        ]
+      },
+      "bias": {
+        "saturation": 0.15,
+        "uniform": 0.1,
+        "tone": -0.05,
+        "rigidity": 0.05,
+        "bumpiness": 0.05
+      },
+      "overrides": {
+        "uniform": {
+          "high": "harmonious color variety with a few bold accents, keeping the palette intentional and graphic."
+        },
+        "tone": {
+          "low": "warm mid-century palette with walnut tones, caramel leather, and creamy off-whites."
+        }
+      }
+    },
+
+    "Timeless Farmhouse": {
+      "tags": [
+        "Timeless Farmhouse",
+        "cozy rustic-modern",
+        "shiplap and warmth",
+        "black accents",
+        "family-friendly comfort"
+      ],
+      "signature": {
+        "materials": [
+          "painted wood",
+          "reclaimed wood",
+          "shiplap",
+          "natural stone",
+          "matte black metal",
+          "cotton textiles"
+        ],
+        "forms": [
+          "simple classic profiles",
+          "apron-front elements",
+          "barn-inspired details (subtle)",
+          "chunky comfortable furniture"
+        ],
+        "lighting": [
+          "warm ambient lighting",
+          "lantern-style fixtures",
+          "simple industrial pendants",
+          "soft table lamps"
+        ]
+      },
+      "bias": {
+        "tone": -0.15,
+        "coarseness": 0.1,
+        "thickness": 0.1,
+        "bumpiness": 0.1,
+        "brightness": 0.05
+      },
+      "overrides": {
+        "tone": {
+          "mid": "balanced warm neutrals with creamy whites, soft greiges, and gentle wood warmth."
+        },
+        "coarseness": {
+          "high": "tactile farmhouse texture: visible wood grain, lightly distressed finishes, and natural stone character."
+        }
+      }
+    },
+
+    "Vintage Industrial": {
+      "tags": [
+        "Vintage Industrial",
+        "urban raw",
+        "exposed structure",
+        "metal and concrete",
+        "warehouse aesthetic"
+      ],
+      "signature": {
+        "materials": [
+          "exposed brick",
+          "concrete",
+          "blackened steel",
+          "reclaimed wood",
+          "glass",
+          "leather"
+        ],
+        "forms": [
+          "exposed beams and pipes",
+          "utilitarian furniture",
+          "open shelving",
+          "large-scale simple forms"
+        ],
+        "lighting": [
+          "factory pendants",
+          "track lighting",
+          "Edison bulbs (subtle)",
+          "high-contrast accents"
+        ]
+      },
+      "bias": {
+        "coarseness": 0.2,
+        "thickness": 0.1,
+        "tone": 0.1,
+        "brightness": -0.05,
+        "uniform": -0.05,
+        "bumpiness": 0.05
+      },
+      "overrides": {
+        "tone": {
+          "high": "cool industrial neutrals: concrete gray, charcoal, and steel tones with sharp contrast."
+        },
+        "coarseness": {
+          "mid": "a mix of refined and raw: concrete, metal, and aged wood balanced with smoother surfaces."
+        }
+      }
+    },
+
+    "Cabin Chic": {
+      "tags": [
+        "Cabin Chic",
+        "cozy lodge",
+        "natural wood",
+        "stone hearth",
+        "warm and grounded"
+      ],
+      "signature": {
+        "materials": [
+          "rough-sawn timber",
+          "knotty pine",
+          "fieldstone",
+          "wool blankets",
+          "leather",
+          "iron hardware"
+        ],
+        "forms": [
+          "sturdy chunky furniture",
+          "visible joinery",
+          "log or plank textures",
+          "hearth-centered layout"
+        ],
+        "lighting": [
+          "warm fire-like lighting",
+          "soft lamps",
+          "lantern-inspired fixtures",
+          "low, cozy illumination"
+        ]
+      },
+      "bias": {
+        "tone": -0.2,
+        "coarseness": 0.25,
+        "thickness": 0.2,
+        "brightness": -0.15,
+        "bumpiness": 0.1,
+        "wiggleness": 0.1
+      },
+      "overrides": {
+        "tone": {
+          "low": "warm cabin palette: honey wood, tobacco leather, deep taupe, and earthy browns."
+        },
+        "brightness": {
+          "high": "brightened rustic atmosphere with warm highlights and sunlit wood, without losing coziness."
+        }
+      }
+    },
+
+    "Eclectic Boho": {
+      "tags": [
+        "Eclectic Boho",
+        "collected and layered",
+        "artisan textiles",
+        "global influences",
+        "playful warmth"
+      ],
+      "signature": {
+        "materials": [
+          "rattan",
+          "woven textiles",
+          "patterned rugs",
+          "ceramic",
+          "aged wood",
+          "brass accents"
+        ],
+        "forms": [
+          "mix-and-match furniture",
+          "layered textiles",
+          "plants and organic shapes",
+          "open, relaxed arrangement"
+        ],
+        "lighting": [
+          "warm ambient lighting",
+          "woven pendants",
+          "string lights (subtle)",
+          "candle-like accents"
+        ]
+      },
+      "bias": {
+        "bumpiness": 0.25,
+        "saturation": 0.2,
+        "uniform": 0.2,
+        "rigidity": -0.15,
+        "symmetry": -0.1,
+        "wiggleness": 0.15
+      },
+      "overrides": {
+        "bumpiness": {
+          "high": "rich, curated layering: textiles, art, books, and plants arranged with a collected, lived-in feel."
+        },
+        "uniform": {
+          "high": "diverse hues and patterns intentionally mixed, with a cohesive warm undertone tying it together."
+        }
+      }
+    },
+
+    "Modern Deco": {
+      "tags": [
+        "Modern Deco",
+        "glamorous",
+        "geometric elegance",
+        "high contrast",
+        "metallic accents"
+      ],
+      "signature": {
+        "materials": [
+          "marble",
+          "lacquered wood",
+          "velvet upholstery",
+          "brass",
+          "mirrored glass",
+          "black and white stone"
+        ],
+        "forms": [
+          "bold geometry",
+          "symmetrical compositions",
+          "sunburst or fan motifs (subtle)",
+          "stepped profiles and arches"
+        ],
+        "lighting": [
+          "statement chandelier",
+          "globe sconces",
+          "warm sparkle highlights",
+          "dramatic accent lighting"
+        ]
+      },
+      "bias": {
+        "symmetry": 0.2,
+        "rigidity": 0.15,
+        "saturation": 0.15,
+        "uniform": 0.1,
+        "brightness": -0.05,
+        "tone": 0.05
+      },
+      "overrides": {
+        "symmetry": {
+          "high": "strong symmetrical alignment with intentional focal points and balanced geometric repetition."
+        },
+        "tone": {
+          "high": "cool high-contrast palette: crisp black-and-white, deep charcoal, and metallic highlights."
+        },
+        "bumpiness": {
+          "mid": "curated luxury layering: bold art, sculptural décor, and reflective accents without clutter."
+        }
+      }
+    }
+  },
+
+  "refinement_templates": {
+    "config": {
+      "epsilon": 0.05,
+      "max_phrases_per_refinement": 2
+    },
+
+    "dimensions": {
+      "materials": {
+        "thickness": {
+          "increase": "bolder material presence with more visible texture character",
+          "decrease": "more subtle surface expression with minimized grain presence"
+        },
+        "coarseness": {
+          "increase": "more raw and tactile finishes with less polished refinement",
+          "decrease": "smoother, more polished surfaces with a refined finish"
+        },
+        "wiggleness": {
+          "increase": "more organic, natural material character with softer irregularity",
+          "decrease": "cleaner, more synthetic precision with controlled material regularity"
+        }
+      },
+
+      "spatial": {
+        "rigidity": {
+          "increase": "a more structured, orderly layout with clearer alignment and organization",
+          "decrease": "a looser, more relaxed layout with less strict alignment"
+        },
+        "symmetry": {
+          "increase": "stronger visual balance with more symmetrical placement cues",
+          "decrease": "a more asymmetrical composition with natural, informal balance"
+        },
+        "bumpiness": {
+          "increase": "increased decorative articulation and layered detail",
+          "decrease": "a calmer, more minimal decorative approach with reduced visual clutter"
+        }
+      },
+
+      "color": {
+        "tone": {
+          "increase": "a subtle shift toward cooler hues while staying cohesive",
+          "decrease": "a subtle shift toward warmer hues while staying cohesive"
+        },
+        "saturation": {
+          "increase": "slightly richer color intensity while remaining harmonious",
+          "decrease": "more muted, restrained color intensity with softer chroma"
+        },
+        "brightness": {
+          "increase": "a brighter overall atmosphere with more luminous lighting",
+          "decrease": "a deeper, more subdued atmosphere with softer, lower brightness"
+        },
+        "uniformity": {
+          "increase": "more tonal variety and layered palette diversity",
+          "decrease": "a more uniform, controlled palette with reduced variation"
+        }
+      }
+    },
+
+    "assembly": {
+      "prefix": "Please refine the existing living room image with the following targeted changes:",
+      "preserve": "Keep the same room viewpoint, camera framing, and overall composition. Preserve all aspects not mentioned below.",
+      "format": "- {PHRASE}",
+      "suffix": "Make the refinement look like a natural design revision of the same space, not a different room."
+    }
+  }
+
+}

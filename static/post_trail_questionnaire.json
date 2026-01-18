@@ -1,0 +1,151 @@
+{
+  "survey_name": "SketchSense Post-Trial Questionnaire",
+  "version": "1.0",
+  "sections": [
+    {
+      "id": "nasa_tlx",
+      "title": "NASA-TLX (Modified)",
+      "description": "Rate each item based on your experience using SketchSense.",
+      "questions": [
+        {
+          "id": "tlx_mental",
+          "type": "scale",
+          "prompt": "How mentally demanding was the task of using SketchSense to generate a design that matched your intent?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Very Low",
+            "20": "Very High"
+          }
+        },
+        {
+          "id": "tlx_physical",
+          "type": "scale",
+          "prompt": "How physically demanding was the interaction (mouse, keyboard, visual scanning, adjustments)?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Very Low",
+            "20": "Very High"
+          }
+        },
+        {
+          "id": "tlx_temporal",
+          "type": "scale",
+          "prompt": "How rushed or time-pressured did you feel while completing the design task?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Not Rushed",
+            "20": "Extremely Rushed"
+          }
+        },
+        {
+          "id": "tlx_performance",
+          "type": "scale",
+          "prompt": "How successful do you think you were in achieving your intended design outcome using SketchSense?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Very Poor",
+            "20": "Perfect"
+          }
+        },
+        {
+          "id": "tlx_effort",
+          "type": "scale",
+          "prompt": "How much effort did you have to invest to express your design intent and refine the output?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Very Low",
+            "20": "Very High"
+          }
+        },
+        {
+          "id": "tlx_frustration",
+          "type": "scale",
+          "prompt": "How frustrated, stressed, or annoyed did you feel while using SketchSense?",
+          "min": 0,
+          "max": 20,
+          "labels": {
+            "0": "Not at All",
+            "20": "Extremely"
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "rq1",
+      "title": "RQ1 – Cognitive Support & Intent Expression",
+      "scale": {
+        "type": "likert",
+        "min": 1,
+        "max": 7,
+        "labels": {
+          "1": "Strongly Disagree",
+          "7": "Strongly Agree"
+        }
+      },
+      "questions": [
+        {
+          "id": "rq1_01",
+          "type": "likert",
+          "prompt": "SketchSense helped me articulate my design intent more clearly than free-form prompting."
+        },
+        {
+          "id": "rq1_02",
+          "type": "likert",
+          "prompt": "The structured parameters reduced the mental effort of deciding what to describe."
+        },
+        {
+          "id": "rq1_03",
+          "type": "likert",
+          "prompt": "I felt less overwhelmed compared to writing a long, unstructured design prompt."
+        },
+        {
+          "id": "rq1_04",
+          "type": "likert",
+          "prompt": "SketchSense made it easier to choose Interior design qualities instead of having to invent and phase them."
+        }
+      ]
+    },
+
+    {
+      "id": "rq3",
+      "title": "RQ3 – Control, Transparency & Iteration",
+      "scale": {
+        "type": "likert",
+        "min": 1,
+        "max": 7,
+        "labels": {
+          "1": "Strongly Disagree",
+          "7": "Strongly Agree"
+        }
+      },
+      "questions": [
+        {
+          "id": "rq3_01",
+          "type": "likert",
+          "prompt": "I understood how changes in parameters affected the generated design outcome."
+        },
+        {
+          "id": "rq3_02",
+          "type": "likert",
+          "prompt": "SketchSense made the AI generation process feel more predictable."
+        },
+        {
+          "id": "rq3_03",
+          "type": "likert",
+          "prompt": "I felt in control of the design direction rather than reacting to random results."
+        },
+        {
+          "id": "rq3_04",
+          "type": "likert",
+          "prompt": "Overall, SketchSense effectively supports human-AI co-creation in spatial design."
+        }
+      ]
+    }     
+  ]
+}
